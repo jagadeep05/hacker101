@@ -20,4 +20,4 @@ What you'll learn
 - Authorization bypasses and forced browsing
 	- Detection
 	- Exploitation
-	- Mitigation
+	- Mitigatio
